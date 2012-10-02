@@ -1,6 +1,6 @@
 # Dutchess
 
-TODO: Write a gem description
+Because every project needs a Dutch.
 
 ## Installation
 
