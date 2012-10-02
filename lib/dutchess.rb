@@ -3,7 +3,8 @@ require "dutchess/version"
 module Dutchess
 
   def self.say
-    units_hash = YAML.load_file(File.join(File.dirname(__FILE__),"dutchess/yaml/database.yml"))
-    raise units_hash.inspect
+    dutchism = YAML.load_file(File.join(File.dirname(__FILE__),"yaml/dutchisms.yml")).sample
+    puts dutchism
+    dutchism
   end
 end
