@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To print a random Dutchism, run
+
+    Dutchess.say_something
+
+
 
 ## Contributing
 
